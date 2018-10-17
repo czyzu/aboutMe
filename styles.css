@@ -39,12 +39,12 @@ h1, h2, h3, h4 {
     color: #fff;
     flex: 3;
     max-height: 297mm;
-    padding: 13mm;
+    padding: 10mm 12mm;
 }
 
 .rightColumn {
     flex: 6;
-    padding: 15mm 15mm 15mm 5mm;
+    padding: 12mm 15mm 12mm 5mm;
     position: relative;
 }
 
@@ -145,7 +145,7 @@ h1, h2, h3, h4 {
     }
 
 .footer {
-    bottom: 15mm;
+    bottom: 10mm;
     margin-top:200px;
     color: #727272;
     font-size: 10px;
