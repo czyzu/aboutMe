@@ -5,7 +5,6 @@
 
 body {
     background-color: #fff;
-    /*font-family: 'Didact Gothic', sans-serif;*/
     font-family: 'PT Sans', sans-serif;
     height: 100%;
     margin: 0;
@@ -157,6 +156,7 @@ h1, h2, h3, h4 {
     margin: 0;
     size: A4;
 }
+
 @media print {
     html, body {
         height: 297mm;        
